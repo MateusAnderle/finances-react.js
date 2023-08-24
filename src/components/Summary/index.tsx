@@ -10,7 +10,7 @@ export function Summary() {
     <SummaryContainer>
       <SummaryCard>
         <header>
-          <span>Entradas</span>
+          <span>Incomes</span>
           <ArrowCircleUp size={32} color="#6366f1" />
         </header>
 
@@ -19,7 +19,7 @@ export function Summary() {
 
       <SummaryCard>
         <header>
-          <span>Saídas</span>
+          <span>Outcomes</span>
           <ArrowCircleDown size={32} color="#F75A68" />
         </header>
 

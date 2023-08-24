@@ -37,13 +37,13 @@ function SearchFormComponent() {
     <SearchFormContainer onSubmit={handleSubmit(handleSearchTransaction)}>
       <input
         type="text"
-        placeholder="Busque por transações"
+        placeholder="Search for transactions"
         {...register('query')}
       />
 
       <button type="submit" disabled={isSubmitting}>
         <MagnifyingGlass size={20} />
-        Buscar
+        Search
       </button>
     </SearchFormContainer>
   )
