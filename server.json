@@ -1,3 +1,44 @@
 {
-  "transactions": []
+  "transactions": [
+    {
+      "description": "Notebook sale",
+      "price": 4000,
+      "category": "Additional income",
+      "type": "income",
+      "createdAt": "2023-08-24T22:59:55.623Z",
+      "id": 1
+    },
+    {
+      "description": "Pizza",
+      "price": 30,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2023-08-24T23:00:07.747Z",
+      "id": 2
+    },
+    {
+      "description": "Freelance",
+      "price": 5000,
+      "category": "Jobs",
+      "type": "income",
+      "createdAt": "2023-08-24T23:00:41.375Z",
+      "id": 3
+    },
+    {
+      "description": "Burguer",
+      "price": 20,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2023-08-24T23:00:59.651Z",
+      "id": 4
+    },
+    {
+      "description": "New monitor",
+      "price": 3000,
+      "category": "Office supplies",
+      "type": "outcome",
+      "createdAt": "2023-08-24T23:01:49.494Z",
+      "id": 5
+    }
+  ]
 }
