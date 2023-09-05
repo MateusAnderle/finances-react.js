@@ -17,7 +17,7 @@ With a simple and user-friendly interface, it offers the user a modal to input t
 <div align="center" >
 <b>Application</b>
 </div>
-
+ 
 <div align="center" >
   <img src="https://i.imgur.com/z64VclM.png" width=full />
   <img src="https://i.imgur.com/gkYz4Z9.png" width=full />
